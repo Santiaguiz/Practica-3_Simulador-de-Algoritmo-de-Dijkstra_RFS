@@ -15,7 +15,7 @@
     - Planificación de redes de carreteras, sistemas de metro o suministro eléctrico.
       
 ¿Cómo lo implementarías en tu vida?
-  -Aplicarlo en proyectos de programación relacionados con mapas, logística o simulaciones.
+  - Aplicarlo en proyectos de programación relacionados con mapas, logística o simulaciones.
   
 ¿Cómo lo implementarías en tu trabajo o tu trabajo de ensueño?
   - En mi trabajo ideal de la NASA lo podria implementar usandolo en un sistema de navegacion del espacio, usando los cuerpos espaciales como nodos y las trayectorias posibles como las aristas.
